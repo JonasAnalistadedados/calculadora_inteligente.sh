@@ -25,7 +25,7 @@ def calculo(): # Definindo a função Somar
             print(" \n A potenciação é:", num1 ** num2)
         else:
             print(" Opção inválida! Operacional incorreto! Tente novamente..") # Se o usúario digitar um numero acima de 7 aparece opção inválida..
-        print(" Vamos fazer outra operação?\n") # Após o resultado vai aparecer essa pergunta ...
+print(" Vamos fazer outra operação?\n") # Após o resultado vai aparecer essa pergunta ...
 while True:  # Vai executar o programa novamente 
     calculo()
     
