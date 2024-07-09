@@ -10,3 +10,6 @@
 ### Abra o Ubuntu e digite o comando do arquivo calculadora.sh para instalar o Python 3 
 ### Agora você já consegue executar o arquivo da calculadora.py
 
+# Explicação do código em Python da Calculadora Inteligente
+
+
