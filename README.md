@@ -10,7 +10,7 @@
 ### Abra o Ubuntu e digite o comando do arquivo calculadora.sh para instalar o Python 3 
 ### Agora você já consegue executar o arquivo da calculadora.py
 
-# Explicação do código em Python da Calculadora Inteligente
+# Explicação do código em Python da Calculadora Inteligente.
 print("\nCalculadora Inteligente\n") # Titulo que coloquei na minha Calculadora
 def calculo(): # Definindo a função Somar
         num1 = float(input("Digite o primeiro numero: ")) # Vai pedir ao usúario o primeiro numero
