@@ -1,6 +1,6 @@
-# Para executar o código da "Calculadora Inteligente" primeiro execute o script "calculadora.sh"
-# Ao executar o script "calculadora.sh" será atualizado ou instalado o python 3 
-# Logo em seguida vai abrir o programa da Calculadora Inteligente 
+# Para executar o código da "Calculadora Inteligente" baixe o python e copie o código e cole em um editor de Python
+# Para baixar o python basta copiar o comando do script "calculadora.sh" em um terminal linux feito isso será instalado o python ou atualizado 
+# Logo em seguida vai abrir o programa da Calculadora Inteligente, caso não abra basta você localizar o download do "calculadora.py" e abrir 
 # Pronto pode usar!
 
 print("\nCalculadora Inteligente\n") # Titulo que coloquei na minha Calculadora
